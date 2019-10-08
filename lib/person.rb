@@ -3,5 +3,7 @@ class Person
     @name
   end
   
-  def 
+  def name
+    
+  end
 end
